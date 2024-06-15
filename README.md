@@ -81,6 +81,6 @@ The app communicates with the FastAPI backend via the following endpoints:
 
 ### Contact
 
-For any questions or feedback, please contact [abdulrahman8098@gmail.com](mailto:abdulrahman8098@gmail.com).
+For any questions or feedback, please contact [abdulrahman8098@gmail.com](mailto:abdulrahman8098@gmail.com). \
 Twitter [@itzARMAA](https://twitter.com/ItzARMAA)
 ---
