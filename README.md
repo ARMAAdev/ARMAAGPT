@@ -14,7 +14,12 @@ For testing purposes, you can try the application using the following link: [Liv
 
 > **Note**: The backend and frontend are hosted on low-end compute resources, which means the API may struggle to handle more than 5 requests per second. 
 
-![App Screenshot](path_to_screenshot)
+![App Screenshot](screenshots/chat-page1.png)
+![App Screenshot](screenshots/chat-page2.png)
+![App Screenshot](screenshots/chat-page3.png)
+![App Screenshot](screenshots/file-analysis-page1.png)
+![App Screenshot](screenshots/file-analysis-page2.png)
+![App Screenshot](screenshots/file-analysis-page3.png)
 
 ## Getting Started
 ### Prerequisites
@@ -23,6 +28,42 @@ For testing purposes, you can try the application using the following link: [Liv
 - FastAPI: [Install FastAPI](https://fastapi.tiangolo.com/)
 - Dart SDK
 - Python 3.6+
+
+### Prerequisites
+The issue with the file structure rendering incorrectly on GitHub is typically due to the formatting of the markdown syntax. To ensure the file structure displays correctly, you should use proper indentation and spacing in your markdown file.
+
+Here’s an updated version of the file structure section, formatted to display correctly on GitHub:
+
+
+ARMAAGPT/
+├── Backend/
+│   ├── chat_endpoint.py
+│   ├── file_analysis_endpoint.py
+│   ├── main.py
+│   ├── Procfile
+│   └── requirements.txt
+│
+├── Frontend/
+│   ├── .dart_tool/
+│   ├── .firebase/
+│   ├── .idea/
+│   ├── build/
+│   ├── lib/
+│   │   ├── chat.dart
+│   │   ├── fileanalysis.dart
+│   │   ├── home.dart
+│   │   └── main.dart
+│   ├── web/
+│   └── screenshots/
+│
+└── README.md
+
+### Usage
+
+Continue with the rest of your documentation...
+
+This should ensure that the file structure is displayed correctly on GitHub. Ensure you use backticks (```) to open and close the code block and proper indentation for each level of the directory.
+
 
 ### Usage
 
