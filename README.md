@@ -30,10 +30,6 @@ For testing purposes, you can try the application using the following link: [Liv
 - Python 3.6+
 
 ### Prerequisites
-The issue with the file structure rendering incorrectly on GitHub is typically due to the formatting of the markdown syntax. To ensure the file structure displays correctly, you should use proper indentation and spacing in your markdown file.
-
-Here’s an updated version of the file structure section, formatted to display correctly on GitHub:
-
 
 ARMAAGPT/
 ├── Backend/
@@ -57,13 +53,6 @@ ARMAAGPT/
 │   └── screenshots/
 │
 └── README.md
-
-### Usage
-
-Continue with the rest of your documentation...
-
-This should ensure that the file structure is displayed correctly on GitHub. Ensure you use backticks (```) to open and close the code block and proper indentation for each level of the directory.
-
 
 ### Usage
 
