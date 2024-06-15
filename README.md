@@ -29,7 +29,6 @@ For testing purposes, you can try the application using the following link: [Liv
 - Dart SDK
 - Python 3.6+
 
-### Prerequisites
 
 ARMAAGPT/
 ├── Backend/
