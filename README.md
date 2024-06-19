@@ -55,7 +55,7 @@ ARMAAGPT/
 
 ### Usage
 
-1. **Select a Language Model**
+1. **Select a LLM Model**
    - Users can select the desired LLM from a dropdown menu.
 
 2. **Chat with the LLM**
